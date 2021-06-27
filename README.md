@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nushkymohamed" alt="nushkymohamed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/MohNushky" target="blank"><img src="https://img.shields.io/twitter/follow/ansarnusky?logo=twitter&style=for-the-badge" alt="ansarnusky" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MohNushky" target="blank"><img src="https://img.shields.io/twitter/follow/MohNushky?logo=twitter&style=for-the-badge" alt="MohNushky" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,Angular,Koa js,Spring Boot**
 
