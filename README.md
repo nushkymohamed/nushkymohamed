@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/MohNushky" target="blank"><img src="https://img.shields.io/twitter/follow/MohNushky?logo=twitter&style=for-the-badge" alt="MohNushky" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,Angular,Koa js,Spring Boot**
+- 🌱 I’m currently learning **Angular js,Flutter,Swift,Machine Learning and DevOps**
 
 - 📝 I regularly write articles on [https://techcurveguide.blogspot.com/](https://techcurveguide.blogspot.com/)
 
