@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://techcurveguide.blogspot.com/](https://techcurveguide.blogspot.com/)
 
-- 💬 Ask me about **java,python,html,css,java script**
+- 💬 Ask me about **java,python,MERN Stack,java script,Springboot**
 
 - 📫 How to reach me **nuskymohamed1999@gmail.com**
 
