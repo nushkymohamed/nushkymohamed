@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nushky Mohamed</h1>
-<h3 align="center">passionate full stack developer from Srilanka</h3>
+<h3 align="center">Passionate Full Stack Software Engineer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nushkymohamed&label=Profile%20views&color=0e75b6&style=flat" alt="nushkymohamed" /> </p>
 
