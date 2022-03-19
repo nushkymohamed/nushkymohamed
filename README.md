@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/MohNushky" target="blank"><img src="https://img.shields.io/twitter/follow/MohNushky?logo=twitter&style=for-the-badge" alt="MohNushky" /></a> </p>
 
-- 🌱 I’m currently learning **Angular js,Flutter,Swift,Machine Learning and DevOps**
+- 🌱 I’m currently learning **Angular js,Flutter,Swift,Artificial Intelligence and Machine Learning**
 
 - 📝 I regularly write articles on [https://techcurveguide.blogspot.com/](https://techcurveguide.blogspot.com/)
 
-- 💬 Ask me about **java,python,MERN Stack,java script,Springboot**
+- 💬 Ask me about **java,Node Js(React,Next Js,Nest Js,Express Js,Koa Js),Java Script,React Native,Springboot**
 
 - 📫 How to reach me **nuskymohamed1999@gmail.com**
 
