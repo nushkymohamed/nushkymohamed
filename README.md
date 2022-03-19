@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://techcurveguide.blogspot.com/](https://techcurveguide.blogspot.com/)
 
-- 💬 Ask me about **java,Node Js(React,Next Js,Nest Js,Express Js,Koa Js),Java Script,React Native,Springboot**
+- 💬 Ask me about **Java,Node Js(React Js,Next Js,Nest Js,Express Js,Koa Js),Java Script,Type Script,React Native,Springboot**
 
 - 📫 How to reach me **nuskymohamed1999@gmail.com**
 
